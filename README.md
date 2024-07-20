@@ -73,7 +73,7 @@ Add your own exams, subjects, grades, and marks for a personalized experience.
 - Laksh Bharani, Tech
 - Jothish Kamal, Tech
 - Aakaash SS, Tech
-- - Pravenraam Shankar, Manager
+- Pravenraam Shankar, Manager
 - Suhani Pasricha, Designer
 - Sarah George, Designer
 
