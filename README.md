@@ -70,10 +70,10 @@ Add your own exams, subjects, grades, and marks for a personalized experience.
 ![8](https://github.com/JothishKamal/justpassapp/assets/134390548/f6c438fa-fc84-459e-b50c-7899a60d2b5c)
 
 ## Meet The Team:
-- Pravenraam Shankar, Manager
 - Laksh Bharani, Tech
 - Jothish Kamal, Tech
 - Aakaash SS, Tech
+- - Pravenraam Shankar, Manager
 - Suhani Pasricha, Designer
 - Sarah George, Designer
 
